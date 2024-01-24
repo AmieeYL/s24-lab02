@@ -1,7 +1,5 @@
 package edu.cmu.cs.cs214.lab02;
 
-import javax.sound.midi.ShortMessage;
-
 import edu.cmu.cs.cs214.lab02.shapes.*;
 
 public class Renderer {
